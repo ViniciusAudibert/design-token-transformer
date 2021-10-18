@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 18 Oct 2021 21:29:53 GMT
+// Generated on Mon, 18 Oct 2021 21:38:01 GMT
 
 
 import UIKit
@@ -15,6 +15,7 @@ public class StyleDictionary {
     public static let bordersSingleStyle = [object Object]
     public static let breakpointsLg = 1280
     public static let breakpointsMd = 1024
+    public static let breakpointsSecondary = 109
     public static let breakpointsSm = 768
     public static let radiiMixed = [object Object]
     public static let radiiSmoothing = [object Object]
